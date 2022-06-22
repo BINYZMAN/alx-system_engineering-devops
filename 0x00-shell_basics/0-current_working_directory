@@ -1,2 +1,2 @@
-#!/bin/bash
-var=$(pwd) echo "$var"
+#!/bin/
+pwd pwd [options]var=$(pwd)echo "$var"
