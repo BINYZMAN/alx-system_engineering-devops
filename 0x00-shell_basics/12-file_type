@@ -1,2 +1,3 @@
-#!/bin/bash/tmp
-./iamafile
+#!/bin/bash
+chmod u+x /tmp/iamafile
+./tmp/iamafile
