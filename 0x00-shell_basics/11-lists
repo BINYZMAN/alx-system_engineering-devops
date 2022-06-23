@@ -1,2 +1,2 @@
 #!/bin/bash
-var=pdw ls -la . .. var /boot
+ls -la . .. /boot
