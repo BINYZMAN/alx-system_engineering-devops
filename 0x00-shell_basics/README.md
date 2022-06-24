@@ -1,1 +1,1 @@
-0x00.shell,Basics project
+0x00.shell,Basics projects
