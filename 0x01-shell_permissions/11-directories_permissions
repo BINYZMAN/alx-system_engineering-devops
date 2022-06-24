@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -name d* -exec chmod ugo+x {} \
+find -type  -exec d chmod ugo+x {} +
